@@ -1,0 +1,6 @@
+@EndUserText.label: 'Report Testing'
+define service ZTESTING_REPORT_1 {
+  expose ZTESTING_REPORT;
+  expose zgl_description;
+  expose zSupp_description;
+}

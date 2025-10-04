@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "JV Post",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "JV Post"
+  },
+  "ui5AppDetails": {
+    "appId": "zfigeneralledger"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_F2F026E7E79BF50045FF3B9B3D9A328FB1322189_TM",
+    "semanticObject": "ZGENERAL_LEDGER",
+    "action": "DISPLAY",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_F2F026E7E79BF50045FF3B9B3D9A328FB1322189_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "JV Post",
+        "subtitle": "FI"
+      }
+    }
+  ]
+}
